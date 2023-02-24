@@ -1,9 +1,11 @@
 
 .form__labelText {
-    max-width: 300px;
+    max-width: 350px;
     width: 100%;
     display: inline-block;
     margin-right: 5px;
+    font-weight: 700;
+    color:black;
 }
 
 .form__field {
